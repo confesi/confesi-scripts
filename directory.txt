@@ -1,0 +1,3 @@
+Ran from root directory (parent to client, server, scripts)
+
+docker exec -i fdf71fecc34c bash < ./scripts/seed_comments.sh
