@@ -1,3 +1,5 @@
 Ran from root directory (parent to client, server, scripts)
 
+(where "fdf71fecc34c" is the container ID for mongo:5)
+
 docker exec -i fdf71fecc34c bash < ./scripts/seed_comments.sh
